@@ -19,6 +19,6 @@ This is a git repo for the code I'm using for the 'Location search' custom block
 
 ### Useful Links:
 
-Airtable API Reference: https://airtable.com/developers/blocks/api
-Youtube Video I used to put the map in: https://www.youtube.com/watch?v=WZcxJGmLbSo
-(Note: I have used this youtube video as reference for a lot of the stuff I've been doing)
+- Airtable API Reference: https://airtable.com/developers/blocks/api
+- Youtube Video I used to put the map in: https://www.youtube.com/watch?v=WZcxJGmLbSo
+  (Note: I have used this youtube video as reference for a lot of the stuff I've been doing)
