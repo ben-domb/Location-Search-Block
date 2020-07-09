@@ -41,7 +41,7 @@ const center = {
 
 function TodoBlock() {
 	const { isLoaded, loadError } = useLoadScript({
-		googleMapsApiKey: "AIzaSyBK5oBtt7DD5z5c35YxkWdZrWsL8B21-LU",
+		googleMapsApiKey: "OUR_API_KEY",
 		libraries,
 	});
 
