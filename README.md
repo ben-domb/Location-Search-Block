@@ -8,7 +8,7 @@ This is a git repo for the code I'm using for the 'Location search' custom block
 - The block will add a marker to the map at that address
 - The map will already show markers for all the providers on the map
 - Different coloured markers will show depending on some conditions
-- When youo click on a marker, a pop-up window will show up with the name of that record, the address, and a link to expand that record
+- When you click on a marker, a pop-up window will show up with the name of that record, the address, and a link to expand that record
 
 ### What the block currently does:
 
